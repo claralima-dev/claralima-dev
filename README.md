@@ -1,7 +1,9 @@
 # Ana Clara Lima
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 💻 Focada em desenvolvimento back-end com Java
+
 🚀 Em busca de estágio na área de tecnologia
 
 ---
