@@ -1,21 +1,50 @@
-# Ana Clara Lima
+<h1 align="center">Ana Clara Lima 👩‍💻</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-
-💻 Focada em desenvolvimento back-end com Java
-
-🚀 Em busca de estágio na área de tecnologia
+<p align="center">
+💻 Estudante de ADS | 🚀 Back-end com Java | 🎯 Em busca de estágio
+</p>
 
 ---
 
-## 👋 Sobre mim
+### 👩‍💻 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas, focada em desenvolvimento back-end com Java.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante evolução na área de programação. Atualmente, estou focada no aprendizado de Java e lógica de programação, buscando desenvolver minhas habilidades técnicas e adquirir experiência prática.
-
-Tenho interesse em desenvolvimento back-end e estou em busca da minha primeira oportunidade de estágio para aprender, crescer profissionalmente e contribuir com soluções na área de tecnologia.
+Atualmente estou evoluindo em lógica de programação e construindo projetos práticos para fortalecer minhas habilidades técnicas.
 
 ---
 
-## 🎯 Objetivo
+### 🛠️ Tecnologias
+<p>
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+</p>
 
-Atuar como desenvolvedora back-end, aprimorando minhas habilidades e evoluindo constantemente na área de tecnologia.
+---
+
+### 💼 Projetos em destaque
+
+- 🔐 Sistema de Login em Java  
+  → Validação de usuário e controle de tentativas
+
+- 🧮 Calculadora em Java  
+  → Operações básicas com menu interativo
+
+---
+
+### 📊 Estatísticas
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=claralima-dev&show_icons=true&theme=radical"/>
+</p>
+
+<p>
+<img src="https://streak-stats.demolab.com/?user=claralima-dev&theme=radical"/>
+</p>
+
+---
+
+### 🎯 Objetivo
+Atuar como desenvolvedora back-end, evoluindo continuamente e contribuindo com soluções tecnológicas.
+
+---
+
+### 📫 Contato
+- LinkedIn: SEU LINK
