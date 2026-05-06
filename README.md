@@ -47,4 +47,4 @@ Atuar como desenvolvedora back-end, evoluindo continuamente e contribuindo com s
 ---
 
 ### 📫 Contato
-- LinkedIn: SEU LINK
+- LinkedIn: www.linkedin.com/in/ana-clara-silva-de-lima
