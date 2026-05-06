@@ -42,7 +42,7 @@ Atualmente estou evoluindo em lógica de programação e construindo projetos pr
 ---
 
 ### 🎯 Objetivo
-Atuar como desenvolvedora back-end, evoluindo continuamente e contribuindo com soluções tecnológicas.
+Buscando minha primeira oportunidade como desenvolvedora back-end, evoluindo continuamente e contribuindo com soluções tecnológicas.
 
 ---
 
