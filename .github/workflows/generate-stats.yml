@@ -1,8 +1,6 @@
 name: Generate Stats
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,4 +16,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: claralima-dev
           template: classic
-          base: header, activity, community, repositories
+          base: header
