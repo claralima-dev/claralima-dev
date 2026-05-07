@@ -15,7 +15,7 @@ Atualmente estou evoluindo em lógica de programação e construindo projetos pr
 
 ### 🛠️ Tecnologias
 <p>
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,git,github,idea,vscode" />
 </p>
 
 ---
