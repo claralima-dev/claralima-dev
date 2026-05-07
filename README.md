@@ -13,35 +13,23 @@ Atualmente estou evoluindo em lógica de programação e construindo projetos pr
 
 ---
 
-### 💼 Projetos em destaque
-
-- 🔐 Sistema de Login em Java  
-  → Validação de usuário e controle de tentativas
-
-- 🧮 Calculadora em Java  
-  → Operações básicas com menu interativo
-
----
-
 ### 🛠️ Tecnologias
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,git,github,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=claralima-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claralima-dev&layout=compact&theme=radical)
+### 💼 Projetos em destaque
+- 🔐 Sistema de Login em Java  
+- 🧮 Calculadora em Java  
 
 ---
 
 ### 🎯 Objetivo
-Buscando minha primeira oportunidade como desenvolvedora back-end, evoluindo continuamente e contribuindo com soluções tecnológicas.
+Atuar como desenvolvedora back-end, evoluindo continuamente e contribuindo com soluções tecnológicas.
 
 ---
 
 ### 📫 Contato
-- LinkedIn: www.linkedin.com/in/ana-clara-silva-de-lima
+- LinkedIn: SEU LINK
