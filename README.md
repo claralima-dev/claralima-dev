@@ -13,13 +13,6 @@ Atualmente estou evoluindo em lógica de programação e construindo projetos pr
 
 ---
 
-### 🛠️ Tecnologias
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,git,github,idea,vscode" />
-</p>
-
----
-
 ### 💼 Projetos em destaque
 
 - 🔐 Sistema de Login em Java  
@@ -30,9 +23,18 @@ Atualmente estou evoluindo em lógica de programação e construindo projetos pr
 
 ---
 
+### 🛠️ Tecnologias
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,git,github,idea,vscode" />
+</p>
+
+---
+
 ### 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=claralima-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claralima-dev&layout=compact&theme=radical)
 
 ---
 
