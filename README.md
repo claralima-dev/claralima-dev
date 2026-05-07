@@ -31,13 +31,7 @@ Atualmente estou evoluindo em lógica de programação e construindo projetos pr
 ---
 
 ### 📊 Estatísticas
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=claralima-dev&show_icons=true&theme=radical"/>
-</p>
-
-<p>
-<img src="https://streak-stats.demolab.com/?user=claralima-dev&theme=radical"/>
-</p>
+![Metrics](https://github.com/claralima-dev/claralima-dev/blob/main/github-metrics.svg)
 
 ---
 
