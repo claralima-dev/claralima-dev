@@ -1,7 +1,7 @@
-<h1 align="center">Ana Clara Lima 👩‍💻</h1>
+<h1 align="center">Ana Clara Lima </h1>
 
 <p align="center">
-💻 Estudante de ADS | 🚀 Back-end com Java | 🎯 Em busca de estágio
+Estudante de ADS | Back-end com Java | Em busca de estágio
 </p>
 
 ---
@@ -21,8 +21,8 @@ Atualmente estou evoluindo em lógica de programação e construindo projetos pr
 ---
 
 ### 💼 Projetos em destaque
-- 🔐 Sistema de Login em Java  
-- 🧮 Calculadora em Java  
+-  Sistema de Login em Java  
+-  Calculadora em Java  
 
 ---
 
