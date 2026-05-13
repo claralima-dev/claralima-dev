@@ -21,8 +21,9 @@ Atualmente estou evoluindo em lógica de programação e construindo projetos pr
 ---
 
 ### 💼 Projetos em destaque
+-  Cadastro de Clientes em Java
 -  Sistema de Login em Java  
--  Calculadora em Java  
+-  Calculadora em Java
 
 ---
 
